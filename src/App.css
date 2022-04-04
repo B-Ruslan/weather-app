@@ -42,14 +42,12 @@ button.active {
 }
 
 .todayWeather {
-  height: 60%;
   width: 100%;
   border: 1px white solid;
   padding-top: 30px;
   display: flex;
   flex-direction: column;
-  align-items:center;
-  justify-content: center;
+  align-items: center;
 }
 
 .todayWeather img {
@@ -82,7 +80,6 @@ button.active {
 }
 
 .rowWeather {
-  height: 40%;
   width: 100%;
   display: flex;
   flex-direction: row;
